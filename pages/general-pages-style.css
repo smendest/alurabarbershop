@@ -1,0 +1,49 @@
+header {
+  background-color: #BBBBBB;
+  padding: 20px 0;
+}
+
+.main-logo {
+  display: inline-block;
+}
+
+.box {
+  width: 70%;
+  position: relative;
+  margin: 0 auto;
+}
+
+nav {
+  position: absolute;
+  display: block;
+  top: 110px;
+  right: 0px;
+}
+
+nav li {
+  display: inline-block;
+  margin: 0 0 0 15px
+}
+
+nav a {
+  text-transform: uppercase;
+  color: black;
+  font-weight: bold;
+  font-size: 22px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: #c78c19;
+}
+
+footer {
+  background-image: url(../../img/bg.jpg);
+  text-align: center;
+  padding: 40px;
+}
+
+.copyright {
+  color: white;
+  margin: 20px;
+}

@@ -1,0 +1,84 @@
+.titulo-principal {
+    padding-left: 30px;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.box {
+    width: 70%;
+    position: relative;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+nav {
+    position: absolute;
+    /* top: 110px; */
+    right: 0px;
+    top: 20px;
+    display: inline-block;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 0 0 15px
+}
+
+nav a {
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #c78c19;
+}
+
+#banner {
+    width: 100%;
+}
+
+.principal {
+    background: #CCCCCC;
+    padding: 20px;
+}
+
+.titulo-centralizado {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+em strong {
+    color: red;
+}
+
+#mision {
+    font-size: 20px;
+}
+
+.diferenciales {
+    background: #FFFFFF;
+    padding: 30px;
+}
+
+.items {
+    font-style: italic;
+}
+
+.dif-list {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagenDiferenciales {
+    width: 50%;
+}
